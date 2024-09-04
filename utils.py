@@ -14,7 +14,7 @@ def sidebar_setup():
     st.markdown("""
     <style>
     .between {
-        height: 52vh;
+        height: 42vh;
     }
     .sidebar-footer {
         display: flex; 
